@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/rohit" target="blank"><img src="https://img.shields.io/twitter/follow/rohit?logo=twitter&style=for-the-badge" alt="rohit" /></a> </p>
 
-- 🔭 I’m currently working on **Frontend Development**
+- 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m currently learning **Cyber Security**
+- 🌱 I’m currently learning **Gen AI**
 
 - 👯 I’m looking to collaborate on **Backend Developer**
 
