@@ -6,16 +6,28 @@
 
 <p align="left"> <a href="https://twitter.com/rohit" target="blank"><img src="https://img.shields.io/twitter/follow/rohit?logo=twitter&style=for-the-badge" alt="rohit" /></a> </p>
 
-- 🔭 I’m currently working on **Full Stack Development**
-
-- 🌱 I’m currently learning **Gen AI**
-
-- 👯 I’m looking to collaborate on **Backend Developer**
-
-- 👨‍💻 All of my projects are available at [rohit-vert.vercel.app](rohit-vert.vercel.app)
-
-- 💬 Ask me about **Frontend, Backend, DSA,Cyber Security**
-
+const saurabh = {
+    pronouns: "He/Him",
+    location: "Lucknow, India 🇮🇳",
+    currentRole: "AI Engineer Intern @Akoode Technologies",
+    currentFocus: "Multimodal AI Systems, LLM/VLM Fine-tuning & Agent Development",
+    languages: ["Python", "Java", "SQL", "JavaScript", "TypeScript", "C++"],
+    frontend: ["React", "Next.js", "Vue.js", "React Native", "HTML5", "CSS3", "Tailwind CSS"],
+    backend: ["Node.js", "Express.js", "Spring Boot", "Django", "FastAPI"],
+    databases: ["MySQL", "PostgreSQL", "MongoDB", "Redis", "Firebase"],
+    cloud: ["AWS", "Azure", "Google Cloud", "Docker", "Kubernetes", "Vercel", "Streamlit"],
+    aiFrameworks: ["LangChain", "CrewAI", "AutoGen", "Langflow"],
+    mlTools: ["PyTorch", "TensorFlow", "Hugging Face", "Scikit-Learn", "Pandas", "NumPy"],
+    aiTools: ["OpenAI GPT-4", "Anthropic Claude", "Hugging Face Transformers"],
+    bioinformatics: ["BioPython", "Bioconductor", "BLAST", "SAMtools", "GATK"],
+    tools: ["Git", "Docker", "AWS", "Firebase", "Vercel", "Streamlit", "VS Code", "IntelliJ IDEA"],
+    coreCompetencies: ["System Design", "Data Structures & Algorithms", "A2A Development", "MLOps", "RAG", "Conversational AI"],
+    openSourcePrograms: ["GSSoC 2026", "Google Summer of Code 2026", "Nexus Spring of Code 2026"],
+    achievements: ["Agent.AI Global Challenge Winner", "GSSoC 2026 Top Contributor", "GSoC 2026 Contributor", "NSoC 2026 Contributor", "TCS HackerQuest Season 10 Round 2 Qualifier", "Google ADK Contributor", "Candidate Master on Codeforces (Top 5%)", "Top 10% on LeetCode"],
+    currentlyLearning: ["Google Agent Development Kit (ADK)", "Advanced LLM Orchestration", "Multi-Agent Systems", "Multimodal AI"],
+    lookingFor: "High-impact AI/ML Engineering Opportunities at Leading Tech Companies",
+    funFact: "I build autonomous agent systems that can talk to each other while solving competitive programming problems! 🤖🧬🚀"
+};
 - 📫 How to reach me **rohit.rk308@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
